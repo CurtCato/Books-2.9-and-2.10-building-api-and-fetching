@@ -1,0 +1,39 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Cheeseburger",
+      "category": "sandwich",
+      "ethnicity": "American",
+      "barcode": "3250391414628" 
+    },
+    {
+      "id": 2,
+      "name": "Cheese Ravioli",
+      "category": "pasta",
+      "ethnicity": "Italian",
+      "barcode": "0029319910169"
+    },
+    {
+      "id": 3,
+      "name": "Steak",
+      "category": "meat",
+      "ethnicity": "universal",
+      "barcode": "0286084095976" 
+    },
+    {
+      "id": 4,
+      "name": "Gyro",
+      "category": "sandwich",
+      "ethnicity": "Middle-Eastern",
+      "barcode": "0077507015066" 
+    },
+    {
+      "id": 5,
+      "name": "burrito",
+      "category": "sandwich",
+      "ethnicity": "Mexican",
+      "barcode": "8410076472489" 
+    }
+  ]
+}
